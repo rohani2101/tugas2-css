@@ -1,0 +1,44 @@
+body{
+    /* margin: 0;
+    padding: 0; */
+    /* background-color: rgb(238, 176, 5); */
+}
+.data1{
+    /* untuk mengubah arah layout dari horizontal ke pertikal dengan flesibel*/
+    display: flex;
+}
+.box img{
+    /* padding: 20px; */
+    margin-left: 50px;
+}
+.box{
+    width: 400px;
+    /* border: 2px solid rgb(231, 9, 9); */
+    color: rgb(16, 80, 218);
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px
+      /* background-color: aqua; */
+    /* margin-bottom: 20px; */
+
+}
+h6{
+    text-align: center;
+    color: gray;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    border: 2PX solid rgb(53, 243, 250);
+    border-radius: 20px;
+    width: 200px;
+    padding: 20px;
+  color: aqua;
+  margin-left: 60px;
+}
+.warna{
+    background-color:rgb(28, 140, 231);
+    color: white;
+}
